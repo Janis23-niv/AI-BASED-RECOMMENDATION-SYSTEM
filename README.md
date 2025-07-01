@@ -122,3 +122,6 @@ Before running the project, ensure the following are installed:
 • Build the foundation for more advanced ML-based systems
 
 •Be equipped to integrate ML models into production applications
+
+## Output
+![Image](https://github.com/user-attachments/assets/4075f740-b408-410e-a13b-075dca89a02c)
